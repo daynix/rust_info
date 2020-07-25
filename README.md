@@ -33,6 +33,11 @@ Collection of information about Rust programming language
 
 * Learn Rust the Dangerous Way: http://cliffle.com/p/dangerust/
 
+* https://hacks.mozilla.org/2015/05/diving-into-rust-for-the-first-time/
+
+* https://research.mozilla.org/rust/
+
+
 ## Virtualization
 
 * Firecracker: https://firecracker-microvm.github.io
@@ -54,6 +59,10 @@ Collection of information about Rust programming language
 ### Windows drivers with Rust
 
 * https://github.com/pravic/winapi-kmd-rs
+
+### Security
+
+* https://msrc-blog.microsoft.com/tag/rust/
 
 ## Videos
 
