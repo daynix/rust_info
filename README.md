@@ -17,6 +17,12 @@ Collection of information about Rust programming language
 
 * Rust language cheat sheet: https://cheats.rs
 
+## More books
+
+* The Cargo Book: https://doc.rust-lang.org/cargo/
+
+* The Edition Guide: https://doc.rust-lang.org/stable/edition-guide/
+
 ## Lint (Clippy)
 
 * https://github.com/rust-lang/rust-clippy
