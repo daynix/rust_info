@@ -23,6 +23,8 @@ Collection of information about Rust programming language
 
 * The Edition Guide: https://doc.rust-lang.org/stable/edition-guide/
 
+* Unsafe Rust: https://doc.rust-lang.org/nomicon/index.html
+
 ## Lint (Clippy)
 
 * https://github.com/rust-lang/rust-clippy
