@@ -7,6 +7,8 @@ Collection of information about Rust programming language
 
 * Rustup: https://rustup.rs
 
+* Installation on Windows: https://facility9.com/2016/03/installing-rust-on-windows/
+
 ## Start here
 
 * Rust book: https://doc.rust-lang.org/book/
