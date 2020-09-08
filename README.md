@@ -7,7 +7,9 @@ Collection of information about Rust programming language
 
 * Rustup: https://rustup.rs
 
-* Installation on Windows: https://facility9.com/2016/03/installing-rust-on-windows/
+* Installation on Windows:
+  * Instructions https://facility9.com/2016/03/installing-rust-on-windows/
+  * Visua Studio 2017 extension: https://marketplace.visualstudio.com/items?itemName=dos-cafe.Rust
 
 ## Start here
 
